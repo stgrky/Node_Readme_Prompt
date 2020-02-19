@@ -1,0 +1,22 @@
+{
+  "name": "node_github_prompt",
+  "version": "1.0.0",
+  "description": "npm json install",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "grantkyle"
+  },
+  "author": "Grant Kyle",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "inquirer": "^7.0.4",
+    "markdown-pdf": "^10.0.0",
+    "pdf-generator-api": "^1.1.0",
+    "pdfkit": "^0.11.0"
+  }
+}
